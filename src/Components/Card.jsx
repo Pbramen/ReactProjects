@@ -5,6 +5,7 @@ function Card() {
             <img className="profile-pic" src={profilePic} alt="Profile Picture"></img>
             <h2 className="card-title">Peter Banh</h2>
             <p>Computer Science Student</p>
+
         </div>
     )
 }

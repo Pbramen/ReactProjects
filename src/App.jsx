@@ -1,9 +1,9 @@
-import Student from './Components/Student/Student'
+//import Counter from "./Components/Counter";
+import ColorPicker from "./Components/ColorPicker";
 function App() {
   return (
     <>
-      <Student name="Peter Banh" age={26}  />
-
+      <ColorPicker/>
     </>
   )
 }
