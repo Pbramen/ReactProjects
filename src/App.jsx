@@ -1,10 +1,9 @@
-import Card from './Components/Card'
-import Button from './Components/Button/Button'
+import Student from './Components/Student/Student'
 function App() {
   return (
     <>
-      <Card />
-      <Button/>
+      <Student name="Peter Banh" age={26}  />
+
     </>
   )
 }
